@@ -1,0 +1,97 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+section {
+    background-color: rgb(83, 91, 94);
+    
+}
+.hezron {
+    background-color: rgb(64, 77, 110);
+    height: 30vh;
+    color: aliceblue;
+    font-size: 40px;
+}
+footer {
+    height: 100px;
+    background-color: rgb(109, 97, 82);
+    color: rgb(6, 6, 6);
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+}
+li {
+    text-decoration: none;
+}
+h1 {
+    font-size: 90px;
+    margin: 0;
+}
+h2 {
+    font-size: 60px;
+}
+
+p {
+    margin: 0px;
+    font-size: 30px;
+    font-weight: 300;
+}
+.suntext {
+    font-size: 15px;
+    font-weight: 300;
+}
+.hezron-area {
+    display: flex;
+    height: 100%;
+    flex-direction: center;
+    justify-content: space-between;
+}
+.hezron-text {
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+.button {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(28, 59, 117);
+    text-align: center;
+    font-size: 30px;
+
+}
+.socials {
+    padding-bottom: 200px;
+}
+.socials {
+    margin: 20px;
+}
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+.sub-section-alt {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
+.project-card {
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+}
+.project-container {
+    display: flex;
+    justify-content: space-around;
+}
+    
+
